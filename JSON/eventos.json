@@ -1,0 +1,29 @@
+{
+    "eventos": [
+        {
+            "nombre": "Concierto de Rock",
+            "fecha": "2024-10-15",
+            "ubicacion": "Auditorio Nacional"
+        },
+        {
+            "nombre": "Exposición de Arte Moderno",
+            "fecha": "2024-11-01",
+            "ubicacion": "Museo de Bellas Artes"
+        },
+        {
+            "nombre": "Festival de Cine Independiente",
+            "fecha": "2024-12-05",
+            "ubicacion": "Cine Cultural"
+        },
+        {
+            "nombre": "Feria del Libro",
+            "fecha": "2024-10-20",
+            "ubicacion": "Centro de Convenciones"
+        },
+        {
+            "nombre": "Carrera 5K por la Salud",
+            "fecha": "2024-10-25",
+            "ubicacion": "Parque Central"
+        }
+    ]
+}

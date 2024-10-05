@@ -1,0 +1,22 @@
+{
+    "reservas": [
+        {
+            "nombre_usuario": "Carlos Ramírez",
+            "evento": "Concierto de Rock",
+            "fecha_evento": "2024-10-15",
+            "boletos_reservados": 2
+        },
+        {
+            "nombre_usuario": "Marta González",
+            "evento": "Exposición de Arte Moderno",
+            "fecha_evento": "2024-11-01",
+            "boletos_reservados": 1
+        },
+        {
+            "nombre_usuario": "Carlos Ramírez",
+            "evento": "Festival de Cine Independiente",
+            "fecha_evento": "2024-12-05",
+            "boletos_reservados": 3
+        }
+    ]
+}
